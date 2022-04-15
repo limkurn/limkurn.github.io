@@ -10,7 +10,7 @@
         <title>Lim</title>
         <link>https://limkurn.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
-        <generator>Hugo 0.92.2 https://gohugo.io/</generator>
+        <generator>Hugo 0.96.0 https://gohugo.io/</generator>
         
             <language>en</language>
         
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Wed, 23 Feb 2022 17:03:04 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 00:42:13 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://limkurn.github.io/rss.xml" />
         
